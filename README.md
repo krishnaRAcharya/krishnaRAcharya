@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://deleteme-three.vercel.app/?text=krishna)
+![k](https://deleteme-three.vercel.app/?text=krishna)
 <!--
 **krishnaRAcharya/krishnaRAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
