@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://vitejsvite6mkmzk-vnrm--5173--f8b0f7c7.local-corp.webcontainer.io)
+![image](http://localhost:3000/stackoverflow-badge)
 <!--
 **krishnaRAcharya/krishnaRAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
